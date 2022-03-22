@@ -75,7 +75,7 @@ onMounted(() => {
 							<div class="flex justify-content-between flex-column sm:flex-row">
 								<span class="p-input-icon-left">
 									<i class="pi pi-search" />
-									<InputText v-model="filters['global']!.value" placeholder="Keyword Search" />
+									<InputText v-model="filters['global']?.value" placeholder="Keyword Search" />
 
 									<Button type="button" icon="pi pi-filter-slash" label="Clear" class="p-button-outlined ml-2" @click="clearFilter()"/>
 								</span>
