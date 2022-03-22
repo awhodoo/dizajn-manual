@@ -1,0 +1,436 @@
+{
+  "value": [
+    {
+      "zozPzs": "N34675",
+      "zozNazov": "BAHLEDOVÁ JANA MUDR.",
+      "tzzDruh": "112005",
+      "zozIco": "31095496",
+      "zozBeginDat": 37621,
+      "zozEndDat": 37924,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N51851",
+      "zozNazov": "KOLOZSI GABRIEL MUDR.",
+      "tzzDruh": "112010",
+      "zozIco": "34046861",
+      "zozBeginDat": 37621,
+      "zozEndDat": 37679,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O81081",
+      "zozNazov": "BOPKOVÁ BEÁTA MUDR.",
+      "tzzDruh": "112010",
+      "zozIco": "35610514",
+      "zozBeginDat": 37621,
+      "zozEndDat": 37679,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O76791",
+      "zozNazov": "MUDr. Jolana Kvietková",
+      "tzzDruh": "112004",
+      "zozIco": "31761968",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O69701",
+      "zozNazov": "MUDr. Regina Poništová",
+      "tzzDruh": "112011",
+      "zozIco": "34062947",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N28935",
+      "zozNazov": "MICHAL RADOSLAV MUDR.",
+      "tzzDruh": "112014",
+      "zozIco": "37920219",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39446,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N31743",
+      "zozNazov": "PaedDr. Marcela Rothová, klinická logopédia",
+      "tzzDruh": "112141",
+      "zozIco": "35531053",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N50869",
+      "zozNazov": "PaedDr. Viera Kerekešová",
+      "tzzDruh": "112141",
+      "zozIco": "33897468",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N51821",
+      "zozNazov": "Mgr. Terézia Rybánska",
+      "tzzDruh": "112141",
+      "zozIco": "34046291",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N74227",
+      "zozNazov": "PaedDr. Marie Sartoryová",
+      "tzzDruh": "112141",
+      "zozIco": "36124231",
+      "zozBeginDat": 37621,
+      "zozEndDat": 40358,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O46615",
+      "zozNazov": "MILICHOVSKÁ DANIELA MUDR.",
+      "tzzDruh": "112005",
+      "zozIco": "30687381",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38045,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O94917",
+      "zozNazov": "MUDr. Peter Prekop",
+      "tzzDruh": "112014",
+      "zozIco": "37922092",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P30297",
+      "zozNazov": "DIAGYN SÍLEŠ, s.r.o.",
+      "tzzDruh": "115120",
+      "zozIco": "36567167",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O36515",
+      "zozNazov": "MUDr. Dominik Mízner",
+      "tzzDruh": "112009",
+      "zozIco": "31808336",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39491,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N50897",
+      "zozNazov": "HAR - MED, s.r.o.",
+      "tzzDruh": "115120",
+      "zozIco": "36499846",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P82247",
+      "zozNazov": "ROPET s.r.o.",
+      "tzzDruh": "112009",
+      "zozIco": "36576972",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N39509",
+      "zozNazov": "DEMKOV JAROSLAV MUDR.",
+      "tzzDruh": "112009",
+      "zozIco": "35554894",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39081,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O65331",
+      "zozNazov": "ŠVAJLENOVÁ ANNA MUDR.",
+      "tzzDruh": "111112",
+      "zozIco": "31843549",
+      "zozBeginDat": 37621,
+      "zozEndDat": 37893,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P69287",
+      "zozNazov": "MGMG, s.r.o.",
+      "tzzDruh": "111111",
+      "zozIco": "36617113",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N54547",
+      "zozNazov": "TAMBORSKÁ MARCELA MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "31932100",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39081,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P63295",
+      "zozNazov": "Medam, s.r.o.",
+      "tzzDruh": "111111",
+      "zozIco": "36621676",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N60948",
+      "zozNazov": "KMŠ, s.r.o.",
+      "tzzDruh": "201120",
+      "zozIco": "36481386",
+      "zozBeginDat": 37516,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P54038",
+      "zozNazov": "Lekáreň AURUM",
+      "tzzDruh": "201120",
+      "zozIco": "31722148",
+      "zozBeginDat": 37532,
+      "zozEndDat": 42463,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O96089",
+      "zozNazov": "HAJDU ŠTEFAN MUDR.",
+      "tzzDruh": "112011",
+      "zozIco": "34041702",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38532,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N61642",
+      "zozNazov": "JANKDent s.r.o.",
+      "tzzDruh": "112016",
+      "zozIco": "36513610",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O24183",
+      "zozNazov": "ČERBANIČOVÁ OĽGA MUDR.",
+      "tzzDruh": "112016",
+      "zozIco": "31149022",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38076,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N81011",
+      "zozNazov": "LIPKOVÁ MARTA MUDR.",
+      "tzzDruh": "112016",
+      "zozIco": "31975445",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38897,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P44135",
+      "zozNazov": "AM DENT spol. s r.o.",
+      "tzzDruh": "112016",
+      "zozIco": "36267244",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N77166",
+      "zozNazov": "KOHAJDA, s.r.o.",
+      "tzzDruh": "112016",
+      "zozIco": "36618799",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N50507",
+      "zozNazov": "MUDr. Róbert Hoffman",
+      "tzzDruh": "112016",
+      "zozIco": "35677309",
+      "zozBeginDat": 37621,
+      "zozEndDat": 41273,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N85859",
+      "zozNazov": "HUSÁROVÁ PATRÍCIA MUDR.",
+      "tzzDruh": "112016",
+      "zozIco": "35656131",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38532,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N62535",
+      "zozNazov": "MUDr. Janka Smatanová",
+      "tzzDruh": "112016",
+      "zozIco": "37805665",
+      "zozBeginDat": 37621,
+      "zozEndDat": 40967,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O31835",
+      "zozNazov": "MUDr. Alexander Cap",
+      "tzzDruh": "112016",
+      "zozIco": "35522879",
+      "zozBeginDat": 37621,
+      "zozEndDat": 40967,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N39205",
+      "zozNazov": "MIGASOVÁ MÁRIA MUDR.",
+      "tzzDruh": "112016",
+      "zozIco": "35515279",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39081,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N86681",
+      "zozNazov": "MUDr. Jarmila Rétiová",
+      "tzzDruh": "112016",
+      "zozIco": "35659319",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P64335",
+      "zozNazov": "POHOTOVOSŤ, s.r.o.",
+      "tzzDruh": "111111",
+      "zozIco": "36542199",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N95543",
+      "zozNazov": "HERDA KAROL MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "31929303",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39232,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N39427",
+      "zozNazov": "LELEKOVÁ MIRIAM MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "37828118",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38716,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O63989",
+      "zozNazov": "UNDESSER ĽUDOVÍT MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "34045686",
+      "zozBeginDat": 37621,
+      "zozEndDat": 37924,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N18627",
+      "zozNazov": "KYSLANOVÁ MÁRIA MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "31968368",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39843,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O67219",
+      "zozNazov": "GÖNDÖROVÁ HANA MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "34027441",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38747,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "P22659",
+      "zozNazov": "MEDISOLO s.r.o.",
+      "tzzDruh": "111111",
+      "zozIco": "35913380",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39389,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N62093",
+      "zozNazov": "ZÁMBORSKÝ JÁN MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "35517298",
+      "zozBeginDat": 37621,
+      "zozEndDat": 38897,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "O24757",
+      "zozNazov": "MUDr. Iveta Lattáková",
+      "tzzDruh": "112016",
+      "zozIco": "31757987",
+      "zozBeginDat": 37621,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    },
+    {
+      "zozPzs": "N19315",
+      "zozNazov": "HALČÁKOVÁ JANA MUDR.",
+      "tzzDruh": "111111",
+      "zozIco": "31974741",
+      "zozBeginDat": 37621,
+      "zozEndDat": 39567,
+      "pzsCisPob": "1000",
+      "sektorId": 1
+    }
+  ]
+}
