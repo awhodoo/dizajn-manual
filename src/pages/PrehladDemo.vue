@@ -176,7 +176,6 @@ onMounted(() => {
 								<Button icon="pi pi-search" class="p-button-rounded p-button-info" />
 							</template>
 						</Column>
-
 				</DataTable>
 
 				<span class="block md:flex">
@@ -184,8 +183,8 @@ onMounted(() => {
 						<template v-for="n in 9">
 							<Button :label="'Button ' + n" class="flex-1 p-button-primary p-button-outlined  mr-1"/>
 						</template>
-						<Button label="Disabled btn" class="flex-1 p-button-primary p-button-outlined  mr-1" disabled="disabled" /> 
-						<Button icon="pi pi-angle-right" class="p-button-primary p-button-outlined " />
+						<Button label="Disabled btn" class="flex-1 p-button-primary p-button-outlined  mr-1" disabled /> 
+						<Button icon="pi pi-angle-right" class="p-button-primary p-button-outlined" />
         </span>
 			</div>
 		</div>
