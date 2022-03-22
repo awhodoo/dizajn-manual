@@ -1,13 +1,12 @@
 <script setup lang="ts">
-import { ref, onMounted, watchEffect  } from 'vue';
+import { ref, onMounted } from 'vue';
 import { FilterMatchMode, FilterOperator } from "primevue/api";
 
 // data
 let state = ref()
 const selectedState = ref();
-
 const filters = ref({
-	global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+	global: { value: "N", matchMode: FilterMatchMode.CONTAINS },
 	zozPzs: {
 		operator: FilterOperator.AND,
 		constraints: [{ value: null, matchMode: FilterMatchMode.STARTS_WITH }],
@@ -44,7 +43,9 @@ const filters = ref({
 
 const loading = ref(true);
 
-function clearFilter() {}
+function clearFilter() {
+	// initFilter()
+}
 
 onMounted(() => {
 	fetch('src/assets/layout/data/prehlad.json')
@@ -53,9 +54,9 @@ onMounted(() => {
 			state.value = d.value
 		});
 
-	// setTimeout(() => {
+	setTimeout(() => {
 		loading.value = false
-	// }, 1000);
+	}, 1000);
 })
 </script>
 
@@ -75,8 +76,7 @@ onMounted(() => {
 							<div class="flex justify-content-between flex-column sm:flex-row">
 								<span class="p-input-icon-left">
 									<i class="pi pi-search" />
-									<InputText v-model="filters['global']?.value" placeholder="Keyword Search" />
-
+									<InputText v-model.nullify="filters['global'].value" placeholder="Keyword Search" />
 									<Button type="button" icon="pi pi-filter-slash" label="Clear" class="p-button-outlined ml-2" @click="clearFilter()"/>
 								</span>
 
